@@ -1,0 +1,6 @@
+C:\Users\Heather\Desktop\Programming\CoinCounter\CoinCounter\bin\Debug\CoinCounter.exe.config
+C:\Users\Heather\Desktop\Programming\CoinCounter\CoinCounter\obj\Debug\CoinCounter.csprojResolveAssemblyReference.cache
+C:\Users\Heather\Desktop\Programming\CoinCounter\CoinCounter\bin\Debug\CoinCounter.exe
+C:\Users\Heather\Desktop\Programming\CoinCounter\CoinCounter\bin\Debug\CoinCounter.pdb
+C:\Users\Heather\Desktop\Programming\CoinCounter\CoinCounter\obj\Debug\CoinCounter.exe
+C:\Users\Heather\Desktop\Programming\CoinCounter\CoinCounter\obj\Debug\CoinCounter.pdb
